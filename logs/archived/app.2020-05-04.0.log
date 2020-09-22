@@ -1,0 +1,12 @@
+2020-05-04 01:39:42,343 INFO com.social.networking.Application [restartedMain] Starting Application on DESKTOP-KNLVODG with PID 21152 (E:\workspace_nic_efile_ng\social-networking\target\classes started by kesha in E:\workspace_nic_efile_ng\social-networking)
+2020-05-04 01:39:42,362 DEBUG com.social.networking.Application [restartedMain] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-04 01:39:42,362 INFO com.social.networking.Application [restartedMain] The following profiles are active: development
+2020-05-04 01:39:50,587 INFO com.social.networking.Application [restartedMain] Started Application in 8.773 seconds (JVM running for 9.528)
+2020-05-04 02:19:20,679 INFO com.social.networking.Application [restartedMain] Starting Application on DESKTOP-KNLVODG with PID 21152 (E:\workspace_nic_efile_ng\social-networking\target\classes started by kesha in E:\workspace_nic_efile_ng\social-networking)
+2020-05-04 02:19:20,681 DEBUG com.social.networking.Application [restartedMain] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-04 02:19:20,684 INFO com.social.networking.Application [restartedMain] The following profiles are active: development
+2020-05-04 02:19:23,147 INFO com.social.networking.Application [restartedMain] Started Application in 2.514 seconds (JVM running for 2382.087)
+2020-05-04 02:19:29,236 INFO com.social.networking.Application [restartedMain] Starting Application on DESKTOP-KNLVODG with PID 21152 (E:\workspace_nic_efile_ng\social-networking\target\classes started by kesha in E:\workspace_nic_efile_ng\social-networking)
+2020-05-04 02:19:29,236 DEBUG com.social.networking.Application [restartedMain] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-04 02:19:29,236 INFO com.social.networking.Application [restartedMain] The following profiles are active: development
+2020-05-04 02:19:30,571 INFO com.social.networking.Application [restartedMain] Started Application in 1.366 seconds (JVM running for 2389.511)

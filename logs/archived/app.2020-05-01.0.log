@@ -1,0 +1,13 @@
+2020-05-01 18:22:29,173 INFO com.social.networking.Application [restartedMain] Starting Application on DESKTOP-KNLVODG with PID 24060 (E:\workspace_nic_efile_ng\social-networking\target\classes started by kesha in E:\workspace_nic_efile_ng\social-networking)
+2020-05-01 18:22:29,177 DEBUG com.social.networking.Application [restartedMain] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-01 18:22:29,178 INFO com.social.networking.Application [restartedMain] The following profiles are active: development
+2020-05-01 18:22:37,120 INFO com.social.networking.Application [restartedMain] Started Application in 8.47 seconds (JVM running for 9.177)
+2020-05-01 18:22:43,674 INFO com.social.networking.service.impl.UserServiceImpl [http-nio-8080-exec-1] getUserPlaylist : u7
+2020-05-01 18:22:43,910 INFO com.social.networking.controller.UncaughtExceptionsControllerAdvice [http-nio-8080-exec-1] ApplicationException : User does not exist
+2020-05-01 18:22:48,826 INFO com.social.networking.controller.UncaughtExceptionsControllerAdvice [http-nio-8080-exec-2] ApplicationException : User is already following this artist
+2020-05-01 18:22:53,046 INFO com.social.networking.controller.UncaughtExceptionsControllerAdvice [http-nio-8080-exec-3] ApplicationException : User is already following this artist
+2020-05-01 19:05:21,021 INFO com.social.networking.Application [restartedMain] Starting Application on DESKTOP-KNLVODG with PID 24060 (E:\workspace_nic_efile_ng\social-networking\target\classes started by kesha in E:\workspace_nic_efile_ng\social-networking)
+2020-05-01 19:05:21,025 DEBUG com.social.networking.Application [restartedMain] Running with Spring Boot v2.2.2.RELEASE, Spring v5.2.2.RELEASE
+2020-05-01 19:05:21,027 INFO com.social.networking.Application [restartedMain] The following profiles are active: development
+2020-05-01 19:05:22,283 INFO com.social.networking.Application [restartedMain] Started Application in 1.319 seconds (JVM running for 2574.34)
+2020-05-01 19:05:32,984 INFO com.social.networking.controller.UncaughtExceptionsControllerAdvice [http-nio-8080-exec-1] ApplicationException : User is already following this artist
