@@ -1,4 +1,4 @@
-INSERT INTO `social-networking-copy`.`artist`
+INSERT INTO `artist`
 (`artist_id`,
 `artist_name`)
 VALUES
