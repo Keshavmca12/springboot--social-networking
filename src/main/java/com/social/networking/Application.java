@@ -21,6 +21,28 @@ import org.springframework.web.servlet.DispatcherServlet;
  * @author kesha
  * Swagger : http://localhost:8080/swagger-ui.html
  */
+/**
+ *Flyway command for command line execution 
+ * 
+ * For execution of flyway through command line maven plegin is required with db configuration
+ * 
+ *mvn flyway:info
+ *
+ *For exection profiles
+ *
+ *mvn flyway:info@EXECUTION_ID
+ *
+ *mvn flyway:info@replica-migrate
+ *
+ *mvn flyway:info@db-migrate
+ *
+ *mvn flyway:migrate
+ *
+ *mvn flyway:migrate@EXECUTION_ID
+ *
+ *mvn flyway:info@replica-migrate
+ *
+ */
 @EnableJpaRepositories("com.social.networking.repository")
 @EntityScan("com.social.networking.entity")
 @SpringBootApplication
