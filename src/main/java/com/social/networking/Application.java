@@ -40,7 +40,7 @@ import org.springframework.web.servlet.DispatcherServlet;
  *
  *mvn flyway:migrate@EXECUTION_ID
  *
- *mvn flyway:info@replica-migrate
+ *mvn flyway:migrate@replica-migrate
  *
  */
 @EnableJpaRepositories("com.social.networking.repository")
